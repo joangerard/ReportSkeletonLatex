@@ -1,16 +1,2 @@
-\contentsline {section}{\numberline {1}Introduction}{1}
-\contentsline {section}{\numberline {2}Description of the program}{1}
-\contentsline {subsection}{\numberline {2.1}Upper-Down segment division}{1}
-\contentsline {subsection}{\numberline {2.2}Segment permutations}{2}
-\contentsline {subsection}{\numberline {2.3}BSP algorithm}{3}
-\contentsline {section}{\numberline {3}Analysis of data}{4}
-\contentsline {subsection}{\numberline {3.1}First case}{4}
-\contentsline {subsection}{\numberline {3.2}Second case}{6}
-\contentsline {subsection}{\numberline {3.3}Third case}{6}
-\contentsline {section}{\numberline {4}Conclusions}{7}
-\contentsline {section}{\numberline {A}Code}{9}
-\contentsline {subsection}{\numberline {A.1}Node.py}{9}
-\contentsline {subsection}{\numberline {A.2}Line.py}{9}
-\contentsline {subsection}{\numberline {A.3}Segment.py}{9}
-\contentsline {subsection}{\numberline {A.4}BSPManager.py}{10}
-\contentsline {subsection}{\numberline {A.5}Main.py}{12}
+\contentsline {section}{\numberline {1}The Hawk-Dove game}{1}
+\contentsline {subsection}{\numberline {1.1}Question}{1}
